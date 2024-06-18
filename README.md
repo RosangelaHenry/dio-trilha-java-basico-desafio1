@@ -2,7 +2,8 @@
 Primeiro Desafio Dio da trilha Java básico. Projeto "Conta Banco"
 
 # Simulando uma conta bancária através do terminal/console
-Introdução
+
+# Introdução
 Desafio do curso Trilha Java Básico da DIO ministrado pelo instrutor Gleyson Sampaio.
 Sintaxe - Desafio
 Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o seguinte cenário.
